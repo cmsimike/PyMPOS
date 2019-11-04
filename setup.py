@@ -29,7 +29,7 @@ setup(
     description='PyMPOS - Python wrapper for the MPOS api',
     url='http://github.com/cmsimike/pympos/',
     install_requires=[
-        'requests==2.2.1',
+        'requests==2.20.0',
     ],
     scripts=['bin/pympos.py'],
 )
